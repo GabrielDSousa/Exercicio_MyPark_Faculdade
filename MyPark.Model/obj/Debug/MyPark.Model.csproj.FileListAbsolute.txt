@@ -1,0 +1,56 @@
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\bin\Debug\MyPark.Model.dll.config
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\bin\Debug\MyPark.Model.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\bin\Debug\MyPark.Model.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\bin\Debug\Iesi.Collections.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\bin\Debug\log4net.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\bin\Debug\MySql.Data.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\bin\Debug\NHibernate.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\bin\Debug\Iesi.Collections.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\bin\Debug\log4net.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\bin\Debug\NHibernate.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\obj\Debug\MyPark.Model.csprojResolveAssemblyReference.cache
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\obj\Debug\MyPark.Model.csproj.CoreCompileInputs.cache
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\obj\Debug\MyPark.Model.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark.Model\obj\Debug\MyPark.Model.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\bin\Debug\MyPark.Model.dll.config
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\bin\Debug\MyPark.Model.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\bin\Debug\MyPark.Model.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\bin\Debug\Iesi.Collections.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\bin\Debug\log4net.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\bin\Debug\MySql.Data.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\bin\Debug\NHibernate.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\bin\Debug\Iesi.Collections.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\bin\Debug\log4net.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\bin\Debug\NHibernate.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\obj\Debug\MyPark.Model.csprojResolveAssemblyReference.cache
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\obj\Debug\MyPark.Model.csproj.CoreCompileInputs.cache
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\obj\Debug\MyPark.Model.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark.Model\obj\Debug\MyPark.Model.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\bin\Debug\MyPark.Model.dll.config
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\bin\Debug\MyPark.Model.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\bin\Debug\MyPark.Model.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\bin\Debug\Iesi.Collections.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\bin\Debug\log4net.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\bin\Debug\MySql.Data.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\bin\Debug\NHibernate.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\bin\Debug\Iesi.Collections.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\bin\Debug\log4net.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\bin\Debug\NHibernate.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\obj\Debug\MyPark.Model.csprojResolveAssemblyReference.cache
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\obj\Debug\MyPark.Model.csproj.CoreCompileInputs.cache
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\obj\Debug\MyPark.Model.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark.Model\obj\Debug\MyPark.Model.pdb
+D:\Adriano\MyPark\MyPark.Model\bin\Debug\MyPark.Model.dll.config
+D:\Adriano\MyPark\MyPark.Model\bin\Debug\MyPark.Model.dll
+D:\Adriano\MyPark\MyPark.Model\bin\Debug\MyPark.Model.pdb
+D:\Adriano\MyPark\MyPark.Model\bin\Debug\Iesi.Collections.dll
+D:\Adriano\MyPark\MyPark.Model\bin\Debug\log4net.dll
+D:\Adriano\MyPark\MyPark.Model\bin\Debug\MySql.Data.dll
+D:\Adriano\MyPark\MyPark.Model\bin\Debug\NHibernate.dll
+D:\Adriano\MyPark\MyPark.Model\bin\Debug\Iesi.Collections.xml
+D:\Adriano\MyPark\MyPark.Model\bin\Debug\log4net.xml
+D:\Adriano\MyPark\MyPark.Model\bin\Debug\NHibernate.xml
+D:\Adriano\MyPark\MyPark.Model\obj\Debug\MyPark.Model.csprojResolveAssemblyReference.cache
+D:\Adriano\MyPark\MyPark.Model\obj\Debug\MyPark.Model.csproj.CoreCompileInputs.cache
+D:\Adriano\MyPark\MyPark.Model\obj\Debug\MyPark.Model.dll
+D:\Adriano\MyPark\MyPark.Model\obj\Debug\MyPark.Model.pdb

@@ -1,0 +1,23 @@
+﻿@model IEnumerable<MyPark.Model.DataBase.Models.estadia>
+@{
+    ViewBag.Title = "Index";
+}
+
+<br/>
+
+<div id="menuEstadia">
+    @Html.Partial("_MenuEstadias")
+</div>
+
+<div id="tblEstadias">
+    @Html.Partial("_TblEstadias", Model)
+</div>
+
+<div id="telaEntrada">
+
+</div>
+
+<div id="telaSaida">
+
+</div>
+

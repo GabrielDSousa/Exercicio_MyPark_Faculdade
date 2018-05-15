@@ -1,0 +1,256 @@
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\csc.exe
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\csc.exe.config
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\csc.rsp
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\csi.exe
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\csi.rsp
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\System.AppContext.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\System.Collections.Immutable.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\System.IO.FileSystem.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\System.Reflection.Metadata.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\vbc.exe
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\vbc.exe.config
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\vbc.rsp
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\VBCSCompiler.exe
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\roslyn\VBCSCompiler.exe.config
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\MyPark.dll.config
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\MyPark.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\MyPark.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\Iesi.Collections.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\log4net.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\Microsoft.Web.Infrastructure.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\MyPark.Model.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\NHibernate.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Helpers.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Mvc.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Razor.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Webpages.Deployment.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Webpages.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Webpages.Razor.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\MySql.Data.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\MyPark.Model.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\MyPark.Model.dll.config
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\Iesi.Collections.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\log4net.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\NHibernate.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Razor.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Webpages.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Webpages.Deployment.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Webpages.Razor.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Helpers.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\System.Web.Mvc.xml
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\pt-br\System.Web.Razor.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\pt-br\System.Web.Webpages.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\pt-br\System.Web.Helpers.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\bin\pt-br\System.Web.Mvc.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\obj\Debug\MyPark.csprojResolveAssemblyReference.cache
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\obj\Debug\MyPark.csproj.CoreCompileInputs.cache
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\obj\Debug\MyPark.dll
+E:\VIANNA\3 PERIODO\PWA\aula_24_04\MyPark\MyPark\obj\Debug\MyPark.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\csc.exe
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\csc.exe.config
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\csc.rsp
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\csi.exe
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\csi.rsp
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\System.AppContext.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\System.Collections.Immutable.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\System.IO.FileSystem.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\System.Reflection.Metadata.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\vbc.exe
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\vbc.exe.config
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\vbc.rsp
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\VBCSCompiler.exe
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\roslyn\VBCSCompiler.exe.config
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\MyPark.dll.config
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\MyPark.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\MyPark.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\Iesi.Collections.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\log4net.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\Microsoft.Web.Infrastructure.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\MyPark.Model.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\NHibernate.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Helpers.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Mvc.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Razor.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Webpages.Deployment.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Webpages.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Webpages.Razor.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\MySql.Data.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\MyPark.Model.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\MyPark.Model.dll.config
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\Iesi.Collections.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\log4net.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\NHibernate.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Razor.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Webpages.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Webpages.Deployment.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Webpages.Razor.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Helpers.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\System.Web.Mvc.xml
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\pt-br\System.Web.Razor.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\pt-br\System.Web.Webpages.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\pt-br\System.Web.Helpers.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\bin\pt-br\System.Web.Mvc.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\obj\Debug\MyPark.csprojResolveAssemblyReference.cache
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\obj\Debug\MyPark.csproj.CoreCompileInputs.cache
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\obj\Debug\MyPark.dll
+E:\VIANNA\3 PERIODO\PWA\aula_26_04\MyPark\MyPark\obj\Debug\MyPark.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\csc.exe
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\csc.exe.config
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\csc.rsp
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\csi.exe
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\csi.rsp
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\System.AppContext.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\System.Collections.Immutable.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\System.IO.FileSystem.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\System.Reflection.Metadata.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\vbc.exe
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\vbc.exe.config
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\vbc.rsp
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\VBCSCompiler.exe
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\roslyn\VBCSCompiler.exe.config
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\MyPark.dll.config
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\MyPark.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\MyPark.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\Iesi.Collections.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\log4net.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\Microsoft.Web.Infrastructure.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\MyPark.Model.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\NHibernate.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Helpers.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Mvc.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Razor.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Webpages.Deployment.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Webpages.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Webpages.Razor.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\MySql.Data.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\MyPark.Model.pdb
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\MyPark.Model.dll.config
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\Iesi.Collections.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\log4net.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\NHibernate.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Razor.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Webpages.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Webpages.Deployment.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Webpages.Razor.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Helpers.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\System.Web.Mvc.xml
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\pt-br\System.Web.Razor.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\pt-br\System.Web.Webpages.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\pt-br\System.Web.Helpers.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\bin\pt-br\System.Web.Mvc.resources.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\obj\Debug\MyPark.csprojResolveAssemblyReference.cache
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\obj\Debug\MyPark.csproj.CoreCompileInputs.cache
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\obj\Debug\MyPark.dll
+E:\VIANNA\3 PERIODO\PWA\aula_03_05\MyPark\MyPark\obj\Debug\MyPark.pdb
+D:\Adriano\MyPark\MyPark\bin\roslyn\csc.exe
+D:\Adriano\MyPark\MyPark\bin\roslyn\csc.exe.config
+D:\Adriano\MyPark\MyPark\bin\roslyn\csc.rsp
+D:\Adriano\MyPark\MyPark\bin\roslyn\csi.exe
+D:\Adriano\MyPark\MyPark\bin\roslyn\csi.rsp
+D:\Adriano\MyPark\MyPark\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Adriano\MyPark\MyPark\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Adriano\MyPark\MyPark\bin\roslyn\System.AppContext.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\System.Collections.Immutable.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\System.IO.FileSystem.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\System.Reflection.Metadata.dll
+D:\Adriano\MyPark\MyPark\bin\roslyn\vbc.exe
+D:\Adriano\MyPark\MyPark\bin\roslyn\vbc.exe.config
+D:\Adriano\MyPark\MyPark\bin\roslyn\vbc.rsp
+D:\Adriano\MyPark\MyPark\bin\roslyn\VBCSCompiler.exe
+D:\Adriano\MyPark\MyPark\bin\roslyn\VBCSCompiler.exe.config
+D:\Adriano\MyPark\MyPark\bin\MyPark.dll.config
+D:\Adriano\MyPark\MyPark\bin\MyPark.dll
+D:\Adriano\MyPark\MyPark\bin\MyPark.pdb
+D:\Adriano\MyPark\MyPark\bin\Iesi.Collections.dll
+D:\Adriano\MyPark\MyPark\bin\log4net.dll
+D:\Adriano\MyPark\MyPark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Adriano\MyPark\MyPark\bin\Microsoft.Web.Infrastructure.dll
+D:\Adriano\MyPark\MyPark\bin\MyPark.Model.dll
+D:\Adriano\MyPark\MyPark\bin\NHibernate.dll
+D:\Adriano\MyPark\MyPark\bin\System.Web.Helpers.dll
+D:\Adriano\MyPark\MyPark\bin\System.Web.Mvc.dll
+D:\Adriano\MyPark\MyPark\bin\System.Web.Razor.dll
+D:\Adriano\MyPark\MyPark\bin\System.Web.Webpages.Deployment.dll
+D:\Adriano\MyPark\MyPark\bin\System.Web.Webpages.dll
+D:\Adriano\MyPark\MyPark\bin\System.Web.Webpages.Razor.dll
+D:\Adriano\MyPark\MyPark\bin\MySql.Data.dll
+D:\Adriano\MyPark\MyPark\bin\MyPark.Model.pdb
+D:\Adriano\MyPark\MyPark\bin\MyPark.Model.dll.config
+D:\Adriano\MyPark\MyPark\bin\Iesi.Collections.xml
+D:\Adriano\MyPark\MyPark\bin\log4net.xml
+D:\Adriano\MyPark\MyPark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Adriano\MyPark\MyPark\bin\NHibernate.xml
+D:\Adriano\MyPark\MyPark\bin\System.Web.Razor.xml
+D:\Adriano\MyPark\MyPark\bin\System.Web.Webpages.xml
+D:\Adriano\MyPark\MyPark\bin\System.Web.Webpages.Deployment.xml
+D:\Adriano\MyPark\MyPark\bin\System.Web.Webpages.Razor.xml
+D:\Adriano\MyPark\MyPark\bin\System.Web.Helpers.xml
+D:\Adriano\MyPark\MyPark\bin\System.Web.Mvc.xml
+D:\Adriano\MyPark\MyPark\bin\pt-br\System.Web.Razor.resources.dll
+D:\Adriano\MyPark\MyPark\bin\pt-br\System.Web.Webpages.resources.dll
+D:\Adriano\MyPark\MyPark\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\Adriano\MyPark\MyPark\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\Adriano\MyPark\MyPark\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Adriano\MyPark\MyPark\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Adriano\MyPark\MyPark\obj\Debug\MyPark.csprojResolveAssemblyReference.cache
+D:\Adriano\MyPark\MyPark\obj\Debug\MyPark.csproj.CoreCompileInputs.cache
+D:\Adriano\MyPark\MyPark\obj\Debug\MyPark.dll
+D:\Adriano\MyPark\MyPark\obj\Debug\MyPark.pdb
